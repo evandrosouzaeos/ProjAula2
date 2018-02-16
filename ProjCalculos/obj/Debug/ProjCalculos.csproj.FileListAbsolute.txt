@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\ProjAula2\ProjCalculos\bin\Debug\ProjCalculos.exe.config
+C:\Users\aluno\source\repos\ProjAula2\ProjCalculos\bin\Debug\ProjCalculos.exe
+C:\Users\aluno\source\repos\ProjAula2\ProjCalculos\bin\Debug\ProjCalculos.pdb
+C:\Users\aluno\source\repos\ProjAula2\ProjCalculos\obj\Debug\ProjCalculos.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\ProjAula2\ProjCalculos\obj\Debug\ProjCalculos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjAula2\ProjCalculos\obj\Debug\ProjCalculos.exe
+C:\Users\aluno\source\repos\ProjAula2\ProjCalculos\obj\Debug\ProjCalculos.pdb
